@@ -38,3 +38,6 @@ _trial_temp*/
 /htmlcov
 /pip-wheel-metadata/
 
+#virtualenv folder
+/env/
+
